@@ -36,12 +36,11 @@
                 processData: false,
                 contentType: false,
                 success: function(res){
-
+                    $('.result span').text(res)
                 }
             })
         })
     </script>
-
 
 </body>
 </html>
