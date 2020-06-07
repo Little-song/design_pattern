@@ -3,16 +3,15 @@ namespace Strategy;
 
 require_once 'Cash.php';
 
+// 打折收费子类
 class CashRebate extends Cash
 {
-    public $money;
-    public $rebateRate; // 折扣率
-
-    public function __construct($rebateRate)
-    {
-        $this->rebateRate = $rebateRate;
-    }
-
+    // 原收取金额
+    public $money;   
+    // 折扣率，默认8折         
+    public $rebateRate = 0.8; 
+    
+    // 重载父类accpectCash方法
     public function acceptCash()
     {
         return $this->money * $this->rebateRate;
