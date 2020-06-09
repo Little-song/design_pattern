@@ -1,9 +1,9 @@
 <?php
 
-use Strategy\Context;
+use Strategy\Model_2\Context;
 
 // 引入上下文类
-require 'Context.php';
+require 'Model_v2.0/Context.php';
 
 // 传入活动类型，实例化上下文类
 $context = new Context('折扣');

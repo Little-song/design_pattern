@@ -1,5 +1,5 @@
 <?php
-namespace Strategy;
+namespace Strategy\Model_2;
 
 require_once 'Cash.php';
 

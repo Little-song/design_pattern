@@ -1,5 +1,5 @@
 <?php
-namespace Strategy;
+namespace Strategy\Model_2;
 
 require 'CashNormal.php';
 require 'CashRebate.php';

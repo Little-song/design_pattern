@@ -3,7 +3,7 @@
  * 客户端，控制器
  */
 
-require "core/Factory.php";
+require "Model/Factory.php";
 
 use SimpleFactory\Factory;
 

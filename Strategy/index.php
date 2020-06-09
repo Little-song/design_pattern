@@ -77,8 +77,8 @@
 
         <div class="layui-form-item">
             <div class="layui-input-block">
-                <button class="layui-btn layui-btn-primary">重置</button>
-                <button class="layui-btn" lay-submit lay-filter="Demo">计算总额</button>
+                <button class="layui-btn layui-btn-primary" lay-submit lay-filter="reset">重置</button>
+                <button type="reset" class="layui-btn" lay-submit lay-filter="Demo">计算总额</button>
             </div>
         </div>
 
@@ -147,7 +147,13 @@ form.on('submit(back)', function(data){
     }
   });  
 
-  //监听提交
+  //监听重置
+  form.on('submit(reset)', function(data){
+    location.reload()
+    return false;
+  });
+
+  //监听计算提交
   form.on('submit(Demo)', function(data){
     layer.msg(JSON.stringify(data.field));
     return false;
