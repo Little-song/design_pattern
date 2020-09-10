@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9245faf-d2af-43cb-892f-94bc608afeb0" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/design_pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethod/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethod/example_1/Model/FactoryAdd.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethod/example_1/Model/FactoryDiv.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethod/example_1/Model/FactoryMul.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethod/example_1/Model/FactorySub.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethod/example_1/Model/IFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethod/example_1/Model/Operation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethod/example_1/Model/OperationAdd.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethod/example_1/Model/OperationDiv.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethod/example_1/Model/OperationMul.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethod/example_1/Model/OperationSub.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethod/example_1/handle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleFactory/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleFactory/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/principle/OpenClosed.md" beforeDir="false" afterPath="$PROJECT_DIR$/principle/OpenClosed.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/Little-song/design_pattern" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hA2NsbRL7xdqiWMuctuKsJUYxV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="新增" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/FactoryMethod/example_1/Model" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/FactoryMethod/example_1/Model" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9245faf-d2af-43cb-892f-94bc608afeb0" name="默认的" comment="" />
+      <created>1599439539606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599439539606</updated>
+      <workItem from="1599439540861" duration="3540000" />
+      <workItem from="1599699986028" duration="14134000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="FactoryMethod finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="FactoryMethod finished" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="457" y="231" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1599443341791">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="457" y="231" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.822@0.23.1440.822" timestamp="1599443341791" />
+    <state x="384" y="151" key="NewPhpClassDialog" timestamp="1599443344097">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="384" y="151" key="NewPhpClassDialog/0.23.1440.822@0.23.1440.822" timestamp="1599443344097" />
+  </component>
+</project>
